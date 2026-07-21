@@ -621,33 +621,3 @@ Every problem solved is one more pattern recognized.
 
 🚀 Solve. Understand. Optimize. Repeat.
 
-### Meri recommendation
-
-Ye **main repository README** ke liye hai. Isko GitHub ke main `README.md` me paste karo.
-
-Aur har individual problem ke liye hum alag detailed README banayenge, jisme actual problem ke:
-
-```text
-Problem
-↓
-Constraints
-↓
-Brute Force
-↓
-Why Brute Force Fails
-↓
-Observation
-↓
-Optimized Approach
-↓
-Dry Run
-↓
-Proof
-↓
-Complexity
-↓
-Code
-↓
-Mistakes
-↓
-Key Learning
