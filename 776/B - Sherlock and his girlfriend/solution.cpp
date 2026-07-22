@@ -4,10 +4,6 @@ using namespace std;
 int main() {
    int n;
    cin>> n;
-   int price[n+2];
-   for(int i=1;i<=n+1;i++){
-       price[i]=i+1;
-   }
    vector<bool> prime(n+2,true);
    prime[0]=prime[1]=false;
    for(int i=2;i*i<=n+1;i++){
