@@ -6,17 +6,18 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 5 |
+| 4 | 6 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
+- [brute force](#brute-force) (1)
 - [constructive algorithms](#constructive-algorithms) (2)
-- [greedy](#greedy) (1)
-- [math](#math) (1)
-- [number theory](#number-theory) (1)
+- [greedy](#greedy) (2)
+- [math](#math) (2)
+- [number theory](#number-theory) (2)
 
 ---
 
@@ -25,6 +26,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
+
+### brute force
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 
 ### constructive algorithms
 
@@ -37,12 +44,14 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
 
 ### number theory
@@ -50,6 +59,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
+| 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 
 ---
 
