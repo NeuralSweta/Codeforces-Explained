@@ -14,7 +14,7 @@ int main() {
    ll j=0;
    ll sum= v[i];
    ll maxi=0;
-   while(j<=n-1 && i<n){
+   while(j<n && i<n){
        if(sum<=t){
            maxi=max(maxi,(j-i+1));
            j++;
