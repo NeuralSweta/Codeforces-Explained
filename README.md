@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 8 | 8 |
+| 9 | 8 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (4)
 - [greedy](#greedy) (4)
-- [implementation](#implementation) (2)
-- [math](#math) (5)
-- [number theory](#number-theory) (2)
+- [implementation](#implementation) (3)
+- [math](#math) (6)
+- [number theory](#number-theory) (3)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -61,12 +61,14 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/279/B%20-%20Books/solution.cpp) |
+| 876B | [Divisiblity of Differences](https://codeforces.com/contest/876/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/876/B%20-%20Divisiblity%20of%20Differences/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 
 ### math
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 876B | [Divisiblity of Differences](https://codeforces.com/contest/876/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/876/B%20-%20Divisiblity%20of%20Differences/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
@@ -78,6 +80,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
+| 876B | [Divisiblity of Differences](https://codeforces.com/contest/876/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/876/B%20-%20Divisiblity%20of%20Differences/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 
 ### two pointers
