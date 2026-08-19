@@ -6,18 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 9 | 8 |
+| 10 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (3)
-- [brute force](#brute-force) (2)
+- [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
+- [dp](#dp) (1)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (3)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (3)
 - [two pointers](#two-pointers) (1)
 
@@ -36,6 +37,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 279B | [Books](https://codeforces.com/contest/279/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/279/B%20-%20Books/solution.cpp) |
+| 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
 
 ### constructive algorithms
@@ -46,6 +48,12 @@
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.cpp) |
 
 ### greedy
 
@@ -68,6 +76,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.cpp) |
 | 876B | [Divisiblity of Differences](https://codeforces.com/contest/876/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/876/B%20-%20Divisiblity%20of%20Differences/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
