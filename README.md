@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 10 |
+| 12 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -30,6 +30,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
+| 2259G | [Index Removal](https://codeforces.com/contest/2259/problem/G) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2259/G%20-%20Index%20Removal/solution.cpp) |
 
 ### binary search
 
