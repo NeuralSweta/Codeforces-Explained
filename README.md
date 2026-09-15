@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 10 |
+| 13 | 10 |
 
 ---
 
@@ -19,8 +19,8 @@
 - [dp](#dp) (1)
 - [greedy](#greedy) (4)
 - [implementation](#implementation) (3)
-- [math](#math) (7)
-- [number theory](#number-theory) (3)
+- [math](#math) (8)
+- [number theory](#number-theory) (4)
 - [two pointers](#two-pointers) (1)
 
 ---
@@ -91,6 +91,7 @@
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
 | 2014C | [Robin Hood in Town](https://codeforces.com/contest/2014/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2014/C%20-%20Robin%20Hood%20in%20Town/solution.cpp) |
 | 2232B | [Cake Leveling](https://codeforces.com/contest/2232/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2232/B%20-%20Cake%20Leveling/solution.cpp) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 
 ### number theory
 
@@ -99,6 +100,7 @@
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/contest/776/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/776/B%20-%20Sherlock%20and%20his%20girlfriend/solution.cpp) |
 | 876B | [Divisiblity of Differences](https://codeforces.com/contest/876/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/876/B%20-%20Divisiblity%20of%20Differences/solution.cpp) |
 | 1780B | [GCD Partition](https://codeforces.com/contest/1780/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/1780/B%20-%20GCD%20Partition/solution.cpp) |
+| 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | 800 | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 
 ### two pointers
 
