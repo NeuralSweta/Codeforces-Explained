@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 13 |
+| 19 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -36,6 +36,7 @@
 | 2259G | [Index Removal](https://codeforces.com/contest/2259/problem/G) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2259/G%20-%20Index%20Removal/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
+| 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
 
 ### binary search
 
