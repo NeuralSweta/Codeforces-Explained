@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 13 |
+| 20 | 13 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (5)
+- [Uncategorized](#uncategorized) (6)
 - [binary search](#binary-search) (3)
 - [brute force](#brute-force) (3)
 - [constructive algorithms](#constructive-algorithms) (4)
@@ -37,6 +37,7 @@
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2290/A%20-%20Three%20Piles/solution.cpp) |
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.cpp) |
+| 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/NeuralSweta/Codeforces-Explained/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.cpp) |
 
 ### binary search
 
